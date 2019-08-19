@@ -21,125 +21,124 @@ msgstr ""
 
 #: app/templates/404.html:4
 msgid "Not Found"
-msgstr ""
+msgstr "Nie bangla"
 
 #: app/templates/404.html:5 app/templates/500.html:6
 msgid "Back"
-msgstr ""
+msgstr "Wróć"
 
 #: app/templates/500.html:4
 msgid "An unexpected error has occurred"
-msgstr ""
+msgstr "Wystąpil nieoczekiwany błąd"
 
 #: app/templates/500.html:5
 msgid "The administrator has been notified. Sorry for the inconvenience!"
-msgstr ""
+msgstr "Administrator został poinformowany. Przepraszamy za utrudnienia"
 
 #: app/templates/_post.html:14
 #, python-format
 msgid "%(username)s said %(when)s"
-msgstr ""
+msgstr "%(username)s powiedział %(when)s"
 
 #: app/templates/base.html:4
 msgid "Welcome to Microblog"
-msgstr ""
+msgstr "Witaj w Mikroblogu"
 
 #: app/templates/base.html:21
 msgid "Home"
-msgstr ""
+msgstr "Strona główna"
 
 #: app/templates/base.html:22
 msgid "Explore"
-msgstr ""
+msgstr "Odkrywaj"
 
 #: app/templates/base.html:26
 msgid "Login"
-msgstr ""
+msgstr "Zaloguj się"
 
 #: app/templates/base.html:28
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: app/templates/base.html:29
 msgid "Logout"
-msgstr ""
+msgstr "Wyloguj się"
 
 #: app/templates/edit_profile.html:5
 msgid "Edit Profile"
-msgstr ""
+msgstr "Edytuj Profil"
 
 #: app/templates/index.html:5
 #, python-format
 msgid "Hi, %(username)s!"
-msgstr ""
+msgstr "Cześć, %(username)s!"
 
 #: app/templates/index.html:17 app/templates/user.html:31
 msgid "Newer posts"
-msgstr ""
+msgstr "Nowsze posty"
 
 #: app/templates/index.html:22 app/templates/user.html:36
 msgid "Older posts"
-msgstr ""
+msgstr "Starsze posty"
 
 #: app/templates/login.html:5
 msgid "Sign In"
-msgstr ""
+msgstr "Zarejestruj się"
 
 #: app/templates/login.html:12
 msgid "New User?"
-msgstr ""
+msgstr "Nowy użytkownik?"
 
 #: app/templates/login.html:12
 msgid "Click to Register!"
-msgstr ""
+msgstr "Kliknij, aby się zarejestrować"
 
 #: app/templates/login.html:14
 msgid "Forgot Your Password?"
-msgstr ""
+msgstr "Zapomniałeś hasła?"
 
 #: app/templates/login.html:15
 msgid "Click to Reset It"
-msgstr ""
+msgstr "Kliknij, aby je odzyskać"
 
 #: app/templates/register.html:5
 msgid "Register"
-msgstr ""
+msgstr "Zarejestruj się"
 
 #: app/templates/reset_password.html:5
 msgid "Reset Your Password"
-msgstr ""
+msgstr "Zrzuć hasło"
 
 #: app/templates/reset_password_request.html:5
 msgid "Reset Password"
-msgstr ""
+msgstr "Zrzuć hasło"
 
 #: app/templates/user.html:8
 msgid "User"
-msgstr ""
+msgstr "Użytkownik"
 
 #: app/templates/user.html:11
 msgid "Last seen on"
-msgstr ""
+msgstr "Ostatnio widziany"
 
 #: app/templates/user.html:13
 #, python-format
 msgid "%(count)d followers"
-msgstr ""
+msgstr "%(count)d śledzących"
 
 #: app/templates/user.html:13
 #, python-format
 msgid "%(count)d following"
-msgstr ""
+msgstr "%(count)d śledzi"
 
 #: app/templates/user.html:15
 msgid "Edit your profile"
-msgstr ""
+msgstr "Edytuj swój profil"
 
 #: app/templates/user.html:17
 msgid "Follow"
-msgstr ""
+msgstr "Śledź"
 
 #: app/templates/user.html:19
 msgid "Unfollow"
-msgstr ""
-
+msgstr "Odśledź"
